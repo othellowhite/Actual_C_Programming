@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:n013_oddEven-1.0.0/n013_oddEven-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n011_intRelation/n011_intRelation-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n010_storeScore-1.0.0/n010_storeScore-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n_009_worktime-1.0.0/n009_worktime-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n008_getMinMax/n008_getMinMax-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n007_sumGivenNums-1.0.0/n007_sumGivenNums-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n006_sumNumbes-1.0.0/n006_sumNumbes-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n005_easter-1.0.0/n005_easter-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n004_intCalculate-1.0.0/n004_intCalculate-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n003_ASCIIprint-1.0.0/n003_ASCIIprint-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n002_wordprint-1.0.0/n002_wordprint-1.0.0.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:n001_helloworld-1.0.0/n001_helloworld-1.0.0.xcodeproj">
+   </FileRef>
+</Workspace>
