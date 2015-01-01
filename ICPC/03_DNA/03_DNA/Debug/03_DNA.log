@@ -1,0 +1,21 @@
+﻿빌드 시작: 2014-10-04 오후 10:21:14
+     1>2 노드의 "C:\Users\Johnny\Dropbox\Lecture\알고리즘\ICPC\03_DNA\03_DNA\03_DNA.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\johnny\dropbox\lecture\알고리즘\icpc\03_dna\03_dna\main.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\johnny\dropbox\lecture\알고리즘\icpc\03_dna\03_dna\main.c(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\johnny\dropbox\lecture\알고리즘\icpc\03_dna\03_dna\main.c(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\johnny\dropbox\lecture\알고리즘\icpc\03_dna\03_dna\main.c(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Johnny\Dropbox\Lecture\알고리즘\ICPC\03_DNA\Debug\03_DNA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Johnny\Dropbox\Lecture\알고리즘\ICPC\03_DNA\Debug\03_DNA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Johnny\Dropbox\Lecture\알고리즘\ICPC\03_DNA\Debug\03_DNA.lib" /MACHINE:X86 Debug\main.obj
+         03_DNA.vcxproj -> C:\Users\Johnny\Dropbox\Lecture\알고리즘\ICPC\03_DNA\Debug\03_DNA.exe
+     1>"C:\Users\Johnny\Dropbox\Lecture\알고리즘\ICPC\03_DNA\03_DNA\03_DNA.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.11
